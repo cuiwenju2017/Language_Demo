@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">多言語デモ</string>
+	<string name="lan_chinese">中国の</string>
+	<string name="lan_en">英文</string>
+	<string name="lan_ja">日本の</string>
+	<string name="lan_de">ドイツ語</string>
+	<string name="text_content">これは、コンテンツ表示領域であります</string>
+	<string name="select_language">言語を選択</string>
+	<string name="btn_set">セットアップ</string>
+	<string name="language_set">言語設定</string>
+	<string name="one_activity">最初の活動</string>
+	<string name="set_activity">設定のアクティビティ</string>
+</resources>

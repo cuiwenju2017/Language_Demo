@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">多语言Demo</string>
+    <string name="lan_chinese">中文</string>
+    <string name="lan_en">英文</string>
+    <string name="lan_ja">日文</string>
+    <string name="lan_de">德文</string>
+    <string name="text_content">这是内容显示区</string>
+    <string name="select_language">选择一个语言</string>
+    <string name="btn_set">设置</string>
+    <string name="language_set">语言设置</string>
+    <string name="one_activity">第一个Activity</string>
+    <string name="set_activity">设置Activity</string>
+</resources>

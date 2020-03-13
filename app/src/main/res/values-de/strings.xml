@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Mehrsprachig Demo</string>
+	<string name="lan_chinese">Chinesisch</string>
+	<string name="lan_en">Englisch</string>
+	<string name="lan_ja">Japanisch</string>
+	<string name="lan_de">Deutsch</string>
+	<string name="text_content">Dies ist der Inhalt Anzeigebereich</string>
+	<string name="select_language">Wählen Sie eine Sprache</string>
+	<string name="btn_set">einrichten</string>
+	<string name="language_set">Spracheinstellungen</string>
+	<string name="one_activity">erste Aktivität</string>
+	<string name="set_activity">Einstellung Aktivität</string>
+</resources>
