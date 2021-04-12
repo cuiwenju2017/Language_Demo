@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">التجريبي متعدد اللغات</string>
+	<string name="lan_chinese">صينى</string>
+	<string name="lan_en">الإنجليزية</string>
+	<string name="lan_ja">اليابانية</string>
+	<string name="lan_de">ألمانية</string>
+	<string name="text_content">هذا هو منطقة عرض المحتوى</string>
+	<string name="select_language">اختر لغة</string>
+	<string name="btn_set">جلس</string>
+	<string name="language_set">اعدادات اللغة</string>
+	<string name="one_activity">النشاط الأول</string>
+	<string name="set_activity">تعيين النشاط</string>
+	<string name="taiwanyu">طاولة مكتب</string>
+	<string name="alaboyu">عربى</string>
+</resources>

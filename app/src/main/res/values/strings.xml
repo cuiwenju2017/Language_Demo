@@ -10,4 +10,6 @@
     <string name="language_set">语言设置</string>
     <string name="one_activity">第一个Activity</string>
     <string name="set_activity">设置Activity</string>
+    <string name="taiwanyu">台文</string>
+    <string name="alaboyu">阿拉伯语</string>
 </resources>
