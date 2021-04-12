@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Πολύγλωσση επίδειξη</string>
+	<string name="lan_chinese">κινέζικα</string>
+	<string name="lan_en">Αγγλικά</string>
+	<string name="lan_ja">Ιαπωνικά</string>
+	<string name="lan_de">Γερμανός</string>
+	<string name="text_content">Αυτή είναι η περιοχή εμφάνισης περιεχομένου</string>
+	<string name="select_language">Επιλέξτε μια γλώσσα</string>
+	<string name="btn_set">Σειρά</string>
+	<string name="language_set">ΡΥΘΜΙΣΕΙΣ ΓΛΩΣΣΑΣ</string>
+	<string name="one_activity">Πρώτη δραστηριότητα</string>
+	<string name="set_activity">Ορισμός δραστηριότητας</string>
+	<string name="taiwanyu">Γραφείο</string>
+	<string name="alaboyu">αραβικός</string>
+	<string name="xilayu">Ελληνικά</string>
+</resources>

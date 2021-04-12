@@ -19,8 +19,8 @@ public class SettingAc extends BaseAc {
         setContentView(R.layout.activity_main);
         setTitle(getString(R.string.set_activity));
         final String[] cities = {getString(R.string.lan_chinese), getString(R.string.lan_en), getString(R.string.lan_ja),
-                getString(R.string.lan_de), getString(R.string.alaboyu)};
-        final String[] locals = {"zh-rCN", "en", "ja", "de", "ar"};
+                getString(R.string.lan_de), getString(R.string.alaboyu),getString(R.string.xilayu)};
+        final String[] locals = {"zh_CN", "en", "ja", "de", "ar","el"};
         Button button = (Button) findViewById(R.id.btn_setting);
         button.setText(R.string.language_set);
         button.setOnClickListener(new View.OnClickListener() {
